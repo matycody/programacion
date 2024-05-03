@@ -30,8 +30,8 @@ def division_ejemplo(dividendo, divisor):
     print("El resultado de la división es:", resultado)
 
 # Ejemplo de uso
-division_ejemplo(10, 2)  # Esto funciona bien
-division_ejemplo(10, 0)  # Esto generará un mensaje de error
+division_ejemplo(50, 2)  
+division_ejemplo(46, 3)  
 
 
 # III)
